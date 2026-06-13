@@ -1,0 +1,6 @@
+Jaspers21Bot/
+│
+├── bot.py             # The main logic of your bot
+├── requirements.txt   # List of dependencies for Railway
+├── README.md          # Optional: Description of your project
+└── .gitignore         # Prevents sensitive files from uploading to GitHub
